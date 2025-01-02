@@ -4,7 +4,8 @@
 version: 1
 # VERSION IS USED TO TRACK FOR FUTURE CHANGES
 
-enabled: true
+# Disabled by default to allow for configuration before blocking connections
+enabled: false
 
 # Hostname configuration, values separated by new line
 hostname:
