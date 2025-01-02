@@ -1,0 +1,4 @@
+name: HostnameEnforcer
+version: '${project.version}'
+main: talkincyber.hostnameenforcer.HostnameEnforcer
+api-version: '1.21'

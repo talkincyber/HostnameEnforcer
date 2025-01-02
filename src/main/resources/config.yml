@@ -1,0 +1,17 @@
+# Block Connection Config
+
+# DO NOT CHANGE THIS
+version: 1
+# VERSION IS USED TO TRACK FOR FUTURE CHANGES
+
+enabled: true
+
+# Hostname configuration, values separated by new line
+hostname:
+  - mc.example.com
+
+port: 25565
+kick-message: Unauthorized
+
+# Enables logging of blocked ping events (Default: true)
+enable-logging: true
