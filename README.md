@@ -1,6 +1,6 @@
 # Block Connections
 
-This is a minecraft plugin that's utilized to stop bot scanning activity. Sometimes these bots will post servers to grief or otherwise inform unwanted visitors. The solution to a lot of these problems is to have explicit allowed hostnames that must be used to connect. This plugin is designed such that you can configure one or more allowed hostnames, and anything else will be blocked with a custom block message sent to their client.
+This is a minecraft plugin that's utilized to stop bot scanning activity. Sometimes these bots will post servers to grief or inform otherwise unwanted visitors. The solution to a lot of these problems is to have explicit allowed hostnames that must be used to connect. This plugin is designed such that you can configure one or more allowed hostnames, and anything else will be blocked with a custom block message sent to their client.
 
 ```
 # Block Connection Config
